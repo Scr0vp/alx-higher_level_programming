@@ -7,4 +7,8 @@ console.log(myObject);
 
 myObject.value = 89;
 
+/*
+YOUR CODE HERE
+*/
+
 console.log(myObject);
