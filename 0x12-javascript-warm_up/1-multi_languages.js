@@ -1,6 +1,10 @@
 #!/usr/bin/node
 // Basic print with Javascript
 
-console.log('C is fun');
-console.log('Python is cool');
-console.log('Javascript is amazing');
+const array = [
+  'C is fun',
+  'Python is cool',
+  'JavaScript is amazing'
+];
+
+array.forEach(array => console.log(array));
